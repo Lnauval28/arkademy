@@ -1,0 +1,25 @@
+	{
+		"name" : "Muhammad Luthfi Nauval Nur Orfakha",
+		"address" : "Perum. Talang Sari Jl. PGRI II Blok B. No. 40",
+		"hobbies"  : [
+			"coding",
+			"reading",
+			"listening music"
+		],
+		"is_married" : false,
+		"school" : {
+			"highSchool" : "SMK Negeri 7 Samarinda",
+			"university" : null
+		},
+		"skills" : [
+			{
+				"name" : "php",
+				"score" : 75
+			},
+			{
+				"name" : "css",
+				"score" : 80
+			}
+		]
+
+	}
